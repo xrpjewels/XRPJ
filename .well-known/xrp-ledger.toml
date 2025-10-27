@@ -1,0 +1,14 @@
+ACCOUNT_TOML_VERSION=2
+
+[account]
+account = "rDsnT2uvE3qoBjJVyhbjozfBECyPiaJiuo"
+name = "XRPJ"
+description = "XRP Jewels Memecoin"
+url = "https://xrpjewels.xyz"
+
+[[currency]]
+currency_code = "XRPJ"
+name = "XRP Jewels"
+description = "XRPJ memecoin on XRPL"
+issuer = "rDsnT2uvE3qoBjJVyhbjozfBECyPiaJiuo"
+logo = { url = "https://raw.githubusercontent.com/xrpjewels/xrpjewels/main/icon.png", width = 256, height = 256, mime_type = "image/png" }
